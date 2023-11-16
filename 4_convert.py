@@ -11,6 +11,8 @@ else:
 
 print("test2")
 
+x=20
+
 
 
 
